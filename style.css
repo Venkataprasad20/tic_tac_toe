@@ -30,7 +30,10 @@ body{
     color: #b0413c;
     background-color: #ffffc7;
 }
-#reset{
+.box:hover{
+    cursor: pointer;
+}
+#reset-btn{
     padding: 1rem;
     font-size: 1.25rem;
     background-color: #191913;
@@ -54,7 +57,12 @@ body{
 }
 
 .msg-container{
-    height: 30vmin;
+    height: 100vmin;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 4rem;
 }
 
 .hide{

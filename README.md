@@ -1,7 +1,7 @@
 🎮 Tic Tac Toe
 This is a mini-project of the classic Tic Tac Toe game developed using HTML, CSS, and JavaScript. The project is fully functional and allows two players to play the game on a single device with a simple and clean user interface.
 <br>
-Live preview : http://127.0.0.1:3000/tic_tac_toe/index.html
+Live preview :  https://venkataprasad20.github.io/tic_tac_toe/
 
 <b>🔧 Technologies Used</b>
 HTML – for the structure of the web page
